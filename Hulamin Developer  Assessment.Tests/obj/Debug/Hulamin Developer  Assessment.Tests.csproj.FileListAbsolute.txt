@@ -1,0 +1,80 @@
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.csproj.AssemblyReference.cache
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.Tests.dll.config
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.Tests.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.Tests.pdb
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\WebGrease.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.pdb
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.dll.config
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.csproj.CopyComplete
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.dll
+C:\Users\lunge\OneDrive\Desktop\Lungelo\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.pdb
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.csproj.AssemblyReference.cache
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.pdb
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.Tests.dll.config
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.Tests.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.Tests.pdb
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\WebGrease.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.pdb
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Hulamin Developer  Assessment.dll.config
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\lunge\OneDrive\Desktop\Hulamin Developer  Assessment\Hulamin Developer  Assessment.Tests\obj\Debug\Hulamin Developer  Assessment.Tests.csproj.CopyComplete

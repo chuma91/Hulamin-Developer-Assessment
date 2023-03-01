@@ -1,0 +1,125 @@
+﻿@model IEnumerable<Hulamin_Developer__Assessment.Models.Supplier>
+@{
+    ViewBag.Title = "GetAllSuppliers";
+    Layout = "~/Views/Shared/_TemplateLayout.cshtml";
+}
+
+<link href="~/Content/datatables.min.css" rel="stylesheet" />
+<script src="~/Scripts/Suppliers/Suppliers.js"></script>
+
+<style>
+    .button {
+        border-radius: 20px;
+    }
+
+    a {
+        color: black;
+    }
+</style>
+
+
+
+<div class="main-content">
+
+    <div class="section-header">
+
+        <div class="section-header-breadcrumb">
+
+
+        </div>
+    </div>
+    <div class="section-body">
+        <div class="row">
+
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <a class="btn btn-success" href="@Url.Action("AddSupplier", "Suppliers")">Add + </a>
+                    </div>
+                    <div class="card-body p-0">
+                        <div class="table-responsive" style="padding:5px">
+                            <table width="100%" class="displayTable table table-striped table-hover" style="table-layout: fixed;">
+                                <thead>
+                                    <tr>
+                                        <th>Company Name</th>
+                                        <th>Contact Name</th>
+                                        <th>Address</th>
+                                        <th>City</th>
+                                        <th>Postal Code</th>
+                                        <th>Country</th>
+                                        <th>Phone</th>
+                                        <th>Edit</th>
+                                        <th>Remove</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.CompanyName">@item.CompanyName</a>
+                                            </td>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.ContactName">@item.ContactName</a>
+                                            </td>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.Address">@item.Address</a>
+                                            </td>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.City">@item.City</a>
+                                            </td>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.PostalCode">@item.PostalCode</a>
+                                            </td>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.Country">@item.Country</a>
+                                            </td>
+                                            <td class="ellipseDescription">
+                                                <a href="#" style="color:gray" title="@item.Phone">@item.Phone</a>
+                                            </td>
+                                            <td>
+                                                <a href="@Url.Action("EditSupplier", "Suppliers", new {Id = item.SupplierID})" class="btn btn-warning">Edit</a>
+                                            </td>
+                                            <td>
+                                                <button onclick="removeSupplier('@item.SupplierID')" class="btn btn-danger">Remove</button>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/datatables.min.js"></script>
+
+    <script type="text/javascript">
+        $('.displayTable').dataTable({
+            dom: "<'row'<'col-sm-4'l><'col-sm-4 text-center'B><'col-sm-4'f>>tp",
+            "order": [[1, "desc"]],
+            responsive: true,
+            buttons: [
+                { extend: 'copy', className: 'btn-sm' },
+                { extend: 'csv', title: 'Supplier', className: 'btn-sm', exportOptions: { columns: 'th:not(:last-child)' } },
+                { extend: 'pdf', title: 'Supplier', className: 'btn-sm', exportOptions: { columns: 'th:not(:last-child)' } },
+                { extend: 'print', className: 'btn-sm', exportOptions: { columns: 'th:not(:last-child)' } }
+            ],
+
+            columnDefs: [{
+                "targets": [2],
+                "orderable": false,
+                "searchable": false
+            }]
+        });
+
+    </script>
+
+}
+
+
+
